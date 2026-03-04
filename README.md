@@ -61,11 +61,11 @@ Sou profundamente focado em **Performance, código limpo e soluções orientadas
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
+
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gu&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=GuAzevedoDev&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 ---
