@@ -21,7 +21,6 @@
 
 Tenho **17 anos**, estudo no **Cotemig** e desde que conheci a programação não parei mais. Me interessa o que está na interseção entre código e design — interfaces que funcionam bem e parecem certas. Atualmente aprofundando desenvolvimento web com a **Origamid** e construindo projetos reais para mobile e web.
 
-Quando não estou codando, estou ouvindo música, explorando novas tecnologias ou empurrando projetos do backlog pra "someday" 😅
 
 ---
 
