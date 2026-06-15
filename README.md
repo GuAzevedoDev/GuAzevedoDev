@@ -5,6 +5,16 @@
 </div>
 
 ---
+<div align="left">
+  <img src="ranger.gif" width="250">
+</div>
+
+## sobre mim.
+
+Tenho **17 anos**, estudo no **Cotemig** e desde que conheci a programação não parei mais. Me interessa o que está na interseção entre código e design — interfaces que funcionam bem e parecem certas. Atualmente aprofundando desenvolvimento web com a **Origamid** e construindo projetos reais para mobile e web.
+
+---
+
 
 <div align="center">
 
@@ -14,13 +24,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-071B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoAzevedo.code@gmail.com)
 
 </div>
-
----
-
-## sobre mim.
-
-Tenho **17 anos**, estudo no **Cotemig** e desde que conheci a programação não parei mais. Me interessa o que está na interseção entre código e design — interfaces que funcionam bem e parecem certas. Atualmente aprofundando desenvolvimento web com a **Origamid** e construindo projetos reais para mobile e web.
-
 
 ---
 
