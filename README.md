@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=071B30&height=200&section=header&text=Gustavo%20Azevedo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=5B8DB8&animation=fadeIn)
+![banner](Banner.png)
 
 </div>
 
