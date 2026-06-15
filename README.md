@@ -1,80 +1,96 @@
-# Olá 👋, Eu sou Gustavo Azevedo
+<div align="center">
 
-🚀 **Desenvolvedor Front-End e Mobile | JavaScript | Kotlin | Swift | Flutter | Python**
+![banner](https://capsule-render.vercel.app/api?type=waving&color=071B30&height=200&section=header&text=Gustavo%20Azevedo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18&descColor=5B8DB8&animation=fadeIn)
 
-Eu crio **Sites**, **Aplicativos**, e **Sistemas web de alta performance**.  
-Sou profundamente focado em **Performance, código limpo e soluções orientadas a negócio**.
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-<a href="https://gustavoAzevedoDev.vercel.app">
-  <img src="https://img.shields.io/badge/Portfólio-ACESSE%20AQUI-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-  <a href="https://github.com/GuAzevedoDev">
-    <img src="https://img.shields.io/badge/GitHub-GuAzevedoDev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/gustavo_azeve10">
-    <img src="https://img.shields.io/badge/Instagram-@Gustavo_Azeve10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-</p>
+</div>
 
 ---
 
-## 🧠 O que eu faço
+<div align="center">
 
-- ⚡ Otimização de performance Web e Mobile
-- 📱 Desenvolvimento de aplicativos Mobile (Android & iOS)
-- 💻 Interfaces modernas e responsivas (Front-End)
-- 🧩 Arquitetura Front-End e organização de código
-- 📊 Dashboards e interfaces interativas
----
+[![Portfólio](https://img.shields.io/badge/Portfólio-071B30?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gustavoazevedodev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-071B30?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-azevedo-8b938736a/)
+[![Instagram](https://img.shields.io/badge/Instagram-071B30?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_azeve10)
+[![Gmail](https://img.shields.io/badge/Gmail-071B30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoAzevedo.code@gmail.com)
 
-## 🛠️ Stack Tecnológica
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-
-### Backend
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Mobile
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### DevOps & Ferramentas
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=GuAzevedoDev&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
+</div>
 
 ---
 
-## 🚀 Filosofia
+## sobre mim.
 
-> _"A imaginação é mais importante que o conhecimento."— Albert Einstein_  
+Tenho **17 anos**, estudo no **Cotemig** e desde que conheci a programação não parei mais. Me interessa o que está na interseção entre código e design — interfaces que funcionam bem e parecem certas. Atualmente aprofundando desenvolvimento web com a **Origamid** e construindo projetos reais para mobile e web.
 
-> _É sobre construir soluções que escalam, duram e geram valor real."_
+Quando não estou codando, estou ouvindo música, explorando novas tecnologias ou empurrando projetos do backlog pra "someday" 😅
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere dar uma estrela em algum repositório  
-🤝 Sempre aberto para colaborações, parcerias e boas ideias
+## tecnologias.
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-071B30?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-071B30?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-071B30?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-071B30?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-071B30?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-071B30?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-071B30?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-071B30?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-071B30?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-071B30?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-071B30?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## projetos em destaque.
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Bikcraft**](https://github.com/GuAzevedoDev/bikcraft) | Site completo para loja de bicicletas artesanais | HTML · CSS · JS |
+| [**Cia das Tortas**](https://github.com/GuAzevedoDev/CiaDasTortas) | Landing page para restaurante | CSS · HTML |
+| [**Galaxy**](https://github.com/GuAzevedoDev/Galaxy) | Projeto exploratório com CSS avançado | CSS |
+| [**Portfólio**](https://github.com/GuAzevedoDev/portifolioGustavoAzevedo) | Meu portfólio pessoal | HTML · CSS · JS |
+
+---
+
+## estatísticas.
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-two-beta-28.vercel.app/api?username=GuAzevedoDev&show_icons=true&hide_border=true&bg_color=071B30&title_color=ffffff&text_color=5B8DB8&icon_color=ffffff" />
+<img height="160" src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&hide_border=true&bg_color=071B30&title_color=ffffff&text_color=5B8DB8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuAzevedoDev&theme=dark&hide_border=true&background=071B30&ring=5B8DB8&fire=ffffff&currStreakLabel=ffffff&sideLabels=5B8DB8&dates=5B8DB8&stroke=5B8DB8)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GuAzevedoDev&bg_color=071B30&color=5B8DB8&line=ffffff&point=5B8DB8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## contribuições.
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/GuAzevedoDev/GuAzevedoDev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=071B30&height=100&section=footer)
+
+</div>
