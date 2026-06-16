@@ -49,3 +49,26 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
   <img height="42" src="https://cdn.simpleicons.org/html5/3B82F6" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="42" src="https://cdn.simpleicons.org/git/3B82F6" />
 </p>
+
+<br>
+
+<div align="center">
+  <h2>Projetos principais</h2>
+  <p>Alguns dos projetos que mais representam minhas habilidades.</p>
+</div>
+
+<p align="center">
+  <a href="https://github.com/GuAzevedoDev/portifolioGustavoAzevedo">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=portifolioGustavoAzevedo&theme=transparent&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/GuAzevedoDev/CiaDasTortas">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=CiaDasTortas&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GuAzevedoDev/Galaxy">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=Galaxy&theme=transparent&hide_border=true" />
+  </a>
+</p>
