@@ -6,7 +6,7 @@
 
 ---
 <div align="left">
-  <img src="ranger.gif" width="250">
+  ![ranger](ranger.gif)
 </div>
 
 ## sobre mim.
