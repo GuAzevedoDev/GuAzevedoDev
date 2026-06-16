@@ -72,3 +72,13 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=Galaxy&theme=transparent&hide_border=true" />
   </a>
 </p>
+
+<br>
+
+<h2 align="center">Estatísticas</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuAzevedoDev&show_icons=true&theme=transparent&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&theme=transparent&hide_border=true" />
+</p>
