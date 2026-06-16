@@ -61,7 +61,8 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
   <a href="https://github.com/GuAzevedoDev/portifolioGustavoAzevedo">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=portifolioGustavoAzevedo&theme=transparent&hide_border=true" />
   </a>
-
+  
+<p align="center">
   <a href="https://github.com/GuAzevedoDev/CiaDasTortas">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=CiaDasTortas&theme=transparent&hide_border=true" />
   </a>
