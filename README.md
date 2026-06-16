@@ -79,7 +79,14 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuAzevedoDev&show_icons=true&theme=transparent&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=GuAzevedoDev&theme=github-dark-blue&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuAzevedoDev&show_icons=true&theme=transparent&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&theme=transparent&hide_border=true" />
+  
+</p>
+
+
