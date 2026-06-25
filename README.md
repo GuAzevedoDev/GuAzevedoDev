@@ -58,6 +58,12 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
 </div>
 
 <p align="center">
+  <a href="https://github.com/GuAzevedoDev/DriveEvidenceSync">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=DriveEvidenceSync&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/GuAzevedoDev/portifolioGustavoAzevedo">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=portifolioGustavoAzevedo&theme=transparent&hide_border=true" />
   </a>
@@ -65,12 +71,6 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
 <p align="center">
   <a href="https://github.com/GuAzevedoDev/CiaDasTortas">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=CiaDasTortas&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GuAzevedoDev/Galaxy">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=Galaxy&theme=transparent&hide_border=true" />
   </a>
 </p>
 
