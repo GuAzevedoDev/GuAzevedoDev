@@ -59,36 +59,29 @@ Neste perfil compartilho projetos, estudos e experiências que fazem parte da mi
 
 <p align="center">
   <a href="https://github.com/GuAzevedoDev/DriveEvidenceSync">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=DriveEvidenceSync&theme=transparent&hide_border=true" />
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=GuAzevedoDev&repo=DriveEvidenceSync&theme=transparent&hide_border=true" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/GuAzevedoDev/portifolioGustavoAzevedo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=portifolioGustavoAzevedo&theme=transparent&hide_border=true" />
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=GuAzevedoDev&repo=portifolioGustavoAzevedo&theme=transparent&hide_border=true" />
   </a>
-  
+</p>
 <p align="center">
   <a href="https://github.com/GuAzevedoDev/CiaDasTortas">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=GuAzevedoDev&repo=CiaDasTortas&theme=transparent&hide_border=true" />
+    <img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=GuAzevedoDev&repo=CiaDasTortas&theme=transparent&hide_border=true" />
   </a>
 </p>
-
 <br>
-
 <h2 align="center">Estatísticas</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuAzevedoDev&theme=github-dark-blue&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GuAzevedoDev&theme=github-dark-blue&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuAzevedoDev&show_icons=true&theme=transparent&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&theme=transparent&hide_border=true" />
-  
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=GuAzevedoDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuAzevedoDev&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=c9d1d9" />
 </p>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuAzevedoDev/GuAzevedoDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuAzevedoDev/GuAzevedoDev/output/github-contribution-grid-snake-dark.svg">
